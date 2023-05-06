@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcommerce_pwa_studio=self.webpackChunkcommerce_pwa_studio||[]).push([[8824],{43451:function(t,n,e){e.r(n),e.d(n,{_frontmatter:function(){return s},default:function(){return f}});var o=e(87462),c=e(45987),r=(e(15007),e(64983)),u=e(91515);const m=["components"],s={},p={_frontmatter:s},a=u.Z;function f(t){let{components:n}=t,e=(0,c.Z)(t,m);return(0,r.mdx)(a,(0,o.Z)({},p,e,{components:n,mdxType:"MDXLayout"}))}f.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-api-index-md-96d25639a8449437975e.js.map

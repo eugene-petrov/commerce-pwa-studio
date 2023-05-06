@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcommerce_pwa_studio=self.webpackChunkcommerce_pwa_studio||[]).push([[8824],{43451:function(n,t,e){e.r(t),e.d(t,{_frontmatter:function(){return s},default:function(){return f}});var o=e(87462),r=e(63366),u=(e(15007),e(64983)),c=e(91515),m=["components"],s={},a={_frontmatter:s},p=c.Z;function f(n){var t=n.components,e=(0,r.Z)(n,m);return(0,u.mdx)(p,(0,o.Z)({},a,e,{components:t,mdxType:"MDXLayout"}))}f.isMDXComponent=!0}}]);
-//# sourceMappingURL=component---src-pages-api-index-md-edef55c8cb1173982626.js.map
